@@ -12,6 +12,18 @@
   --secondary-text: #9ca3af;
 }
 
+/* .dark {
+  --background: #0a0a0a;
+  --foreground: #f9fafb;
+
+  --card: #111827;
+  --border: #1f2937;
+
+  --primary: #3b82f6;
+
+  --secondary-text: #9ca3af;
+} */
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -25,14 +37,7 @@ html {
 }
 
 body {
-  background:
-    radial-gradient(
-      circle at top,
-      rgba(59, 130, 246, 0.15),
-      transparent 30%
-    ),
-    var(--background);
-
+  background: var(--background);
   color: var(--foreground);
 
   font-family:

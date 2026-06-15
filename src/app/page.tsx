@@ -14,7 +14,7 @@ import Contact from "@/sections/Contact";
 
 export default function Home() {
   return (
-    <main className="bg-black text-white pt-20">
+    <main className="min-h-screen pt-20">
       <Navbar />
 
       <Hero />

@@ -12,7 +12,19 @@ const navItems = [
 
 export default function Navbar() {
   return (
-    <nav className="fixed top-0 left-0 z-50 w-full bg-black/90 backdrop-blur-sm border-b border-gray-800">
+    <nav
+      className="
+    fixed
+    top-0
+    left-0
+    z-50
+    w-full
+    bg-black/90
+    backdrop-blur-md
+    border-b
+    border-gray-800
+  "
+    >
       <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
         <a
           href="#home"
