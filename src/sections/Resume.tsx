@@ -24,7 +24,7 @@ export default function Resume() {
           font-medium
         "
       >
-        Resume
+        View Resume
       </a>
     </section>
   );
