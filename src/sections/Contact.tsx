@@ -68,7 +68,7 @@ export default function Contact() {
         </a>
       </div>
 
-      <p className="text-gray-500 mt-8">📍Tamil Nadu, India</p>
+      <p className="text-gray-500 mt-8">📍Bengaluru, India</p>
     </section>
   );
 }
