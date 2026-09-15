@@ -11,7 +11,7 @@ export default function Experience() {
           <h3 className="text-xl font-semibold mt-2">Junior Data Analyst</h3>
 
           <p className="text-gray-400">
-            LLMNextGen2AI Private Limited, Bengaluru
+            Edulearnntech Technologies Private Limited, Bengaluru
           </p>
 
           <p className="text-gray-300 mt-3">
